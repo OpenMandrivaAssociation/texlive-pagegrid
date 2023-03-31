@@ -1,6 +1,6 @@
 Name:		texlive-pagegrid
 Version:	64470
-Release:	1
+Release:	2
 Summary:	Print page grid in background
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pagegrid
