@@ -3,7 +3,7 @@ Version:	64470
 Release:	2
 Summary:	Print page grid in background
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pagegrid
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pagegrid
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pagegrid.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pagegrid.doc.r%{version}.tar.xz
